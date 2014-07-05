@@ -1,0 +1,44 @@
+=head2 Mon Jun 16 09:53:17 2014: C<Module> L<Slurm|Slurm>
+
+=over 4
+
+=item *
+
+C<installed into: /software/slurm-14.03-el6-x86_64/share/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jun 16 09:53:17 2014: C<Module> L<Slurmdb|Slurmdb>
+
+=over 4
+
+=item *
+
+C<installed into: /software/slurm-14.03-el6-x86_64/share/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

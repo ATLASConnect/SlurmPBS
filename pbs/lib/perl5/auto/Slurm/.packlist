@@ -1,0 +1,12 @@
+/software/slurm-14.03-el6-x86_64/lib64/perl5/Slurm.pm
+/software/slurm-14.03-el6-x86_64/lib64/perl5/Slurm/Bitstr.pm
+/software/slurm-14.03-el6-x86_64/lib64/perl5/Slurm/Constant.pm
+/software/slurm-14.03-el6-x86_64/lib64/perl5/Slurm/Hostlist.pm
+/software/slurm-14.03-el6-x86_64/lib64/perl5/Slurm/Stepctx.pm
+/software/slurm-14.03-el6-x86_64/lib64/perl5/auto/Slurm/Slurm.bs
+/software/slurm-14.03-el6-x86_64/lib64/perl5/auto/Slurm/Slurm.so
+/software/slurm-14.03-el6-x86_64/share/man/man3/Slurm.3pm
+/software/slurm-14.03-el6-x86_64/share/man/man3/Slurm::Bitstr.3pm
+/software/slurm-14.03-el6-x86_64/share/man/man3/Slurm::Constant.3pm
+/software/slurm-14.03-el6-x86_64/share/man/man3/Slurm::Hostlist.3pm
+/software/slurm-14.03-el6-x86_64/share/man/man3/Slurm::Stepctx.3pm
